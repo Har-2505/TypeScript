@@ -60,3 +60,10 @@ let c2:admin={
     position:"worker",
     id:223
 };
+
+let c3:admin={
+    name:"Harshit",
+    age:12,
+    position:"worker",
+    id:223
+};
