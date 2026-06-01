@@ -64,6 +64,5 @@ let c2:admin={
 let c3:admin={
     name:"Harshit",
     age:12,
-    position:"worker",
     id:223
 };
