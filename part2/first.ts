@@ -66,3 +66,8 @@ let c3:admin={
     age:12,
     id:223
 };
+let c4:admin={
+    name:"Harshit",
+    age:12,
+    id:223
+};
